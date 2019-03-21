@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\43b5526a902f69349cef8d0880b33eca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-ktx-1.1.0-alpha05.aar\6f56828abdabc0ea5a33c385b21249ea\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\14b11edc5b2a114bb53228cc5f86d024\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\52fdb6b434bd8b99ff65d822fe006695\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\cc1a23b4cad7f5079e4f2f3fffddc95b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\d8bdbb9d87793bdfc2f133d4388116c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\9b0f77fc12f89147d3e46416f87b3959\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\bf1f274cb1eaff6487a820b47decdd57\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\252d5eddbb1af919aea0045eda9334b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\1b8ff70930587baacd14493f5326b6c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\5517be1dc34853c1eeac62fb450f77cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\3e640142a6dab0efbac7f789b8dd70fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\c1eaef6180f999839cabd4fa5f36aaa6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\d515616d18cf1cc67cd22cdd2d13f90e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\f9670e5f9e4726a2ef69ebe23b51522f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\c52ea9c95d07f1da5e98abf8e2fc110a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\2d59a80350ef600b0cf794c8b3d90545\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\899700b2f5f1b481f9bc731b8e584f47\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\f12eb3bd35796c6dd55e5bbfe0d652c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\3af93143cb013351f0ac964ba5de3f4b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\5e9f0bfc8c1ddfda94d62e49550749b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\24439cf5d1a9537219b8a37097b1c4aa\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\ab26731b5d6a249ac50426a3ca9d6836\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\6bee3e5feae970a56b078a55cec2174a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b99e7b093aa39213d4d13616eaa07cee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\6f209eecbdec22a34f3517602c24b23c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\7319fbc754cf5d7c677291804dfa2555\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:3:11-46
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\14b11edc5b2a114bb53228cc5f86d024\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\14b11edc5b2a114bb53228cc5f86d024\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\899700b2f5f1b481f9bc731b8e584f47\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\899700b2f5f1b481f9bc731b8e584f47\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\24439cf5d1a9537219b8a37097b1c4aa\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\24439cf5d1a9537219b8a37097b1c4aa\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\899700b2f5f1b481f9bc731b8e584f47\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.dinnerdecider.MainActivity
+ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:19:9-94
+	android:resource
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:19:51-92
+	android:name
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml:19:20-50
+uses-sdk
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\43b5526a902f69349cef8d0880b33eca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\43b5526a902f69349cef8d0880b33eca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-ktx-1.1.0-alpha05.aar\6f56828abdabc0ea5a33c385b21249ea\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-ktx-1.1.0-alpha05.aar\6f56828abdabc0ea5a33c385b21249ea\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\14b11edc5b2a114bb53228cc5f86d024\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\14b11edc5b2a114bb53228cc5f86d024\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\52fdb6b434bd8b99ff65d822fe006695\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\52fdb6b434bd8b99ff65d822fe006695\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\cc1a23b4cad7f5079e4f2f3fffddc95b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\cc1a23b4cad7f5079e4f2f3fffddc95b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\d8bdbb9d87793bdfc2f133d4388116c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\d8bdbb9d87793bdfc2f133d4388116c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\9b0f77fc12f89147d3e46416f87b3959\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\9b0f77fc12f89147d3e46416f87b3959\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\bf1f274cb1eaff6487a820b47decdd57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\bf1f274cb1eaff6487a820b47decdd57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\252d5eddbb1af919aea0045eda9334b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\252d5eddbb1af919aea0045eda9334b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\1b8ff70930587baacd14493f5326b6c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\1b8ff70930587baacd14493f5326b6c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\5517be1dc34853c1eeac62fb450f77cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\5517be1dc34853c1eeac62fb450f77cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\3e640142a6dab0efbac7f789b8dd70fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\3e640142a6dab0efbac7f789b8dd70fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\c1eaef6180f999839cabd4fa5f36aaa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\c1eaef6180f999839cabd4fa5f36aaa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\d515616d18cf1cc67cd22cdd2d13f90e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\d515616d18cf1cc67cd22cdd2d13f90e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\f9670e5f9e4726a2ef69ebe23b51522f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\f9670e5f9e4726a2ef69ebe23b51522f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\c52ea9c95d07f1da5e98abf8e2fc110a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\c52ea9c95d07f1da5e98abf8e2fc110a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\2d59a80350ef600b0cf794c8b3d90545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\2d59a80350ef600b0cf794c8b3d90545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\899700b2f5f1b481f9bc731b8e584f47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\899700b2f5f1b481f9bc731b8e584f47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\f12eb3bd35796c6dd55e5bbfe0d652c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\f12eb3bd35796c6dd55e5bbfe0d652c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\3af93143cb013351f0ac964ba5de3f4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\3af93143cb013351f0ac964ba5de3f4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\5e9f0bfc8c1ddfda94d62e49550749b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\5e9f0bfc8c1ddfda94d62e49550749b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\24439cf5d1a9537219b8a37097b1c4aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\24439cf5d1a9537219b8a37097b1c4aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\ab26731b5d6a249ac50426a3ca9d6836\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\ab26731b5d6a249ac50426a3ca9d6836\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\6bee3e5feae970a56b078a55cec2174a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\6bee3e5feae970a56b078a55cec2174a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b99e7b093aa39213d4d13616eaa07cee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b99e7b093aa39213d4d13616eaa07cee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\6f209eecbdec22a34f3517602c24b23c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\6f209eecbdec22a34f3517602c24b23c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\7319fbc754cf5d7c677291804dfa2555\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\Sabo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\7319fbc754cf5d7c677291804dfa2555\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sabo\Desktop\Android\E01DinnerDecider\app\src\main\AndroidManifest.xml
